@@ -1,6 +1,7 @@
 # RRT - Python
 
-This repository is a python implementation of the RRT algorithm.
+This repository is a python implementation of the RRT (Rapidly Exploring Random Tree) algorithm.
+This algorithm is used extensively in path planning in robotics applications as a computationally inexpensive method to determine an approximately optimal path between any two points given a set of constraints.
 
 The following is a pseudo-code of the implementation:
 
