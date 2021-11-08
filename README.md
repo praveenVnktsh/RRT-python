@@ -19,3 +19,6 @@ while not reached:
 Here is the algorithm exploring a large open space without any goal.
 
 ![](exploration.gif)
+
+
+Note that the step size is quite small, and is fixed. This can be easily changed to explore a lot faster.
